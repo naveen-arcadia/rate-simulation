@@ -1,6 +1,6 @@
 {
   "name": "message-simulator",
-  "homepage": "https://naveen-arcadia.github.io/message-simulator",
+  "homepage": "https://naveen-arcadia.github.io/rate-simulation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
