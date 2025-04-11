@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/message-simulator/static/css/main.f849f42f.css",
+    "main.js": "/message-simulator/static/js/main.f8cc2f6b.js",
+    "static/js/453.3b78bedc.chunk.js": "/message-simulator/static/js/453.3b78bedc.chunk.js",
+    "index.html": "/message-simulator/index.html",
+    "main.f849f42f.css.map": "/message-simulator/static/css/main.f849f42f.css.map",
+    "main.f8cc2f6b.js.map": "/message-simulator/static/js/main.f8cc2f6b.js.map",
+    "453.3b78bedc.chunk.js.map": "/message-simulator/static/js/453.3b78bedc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f849f42f.css",
+    "static/js/main.f8cc2f6b.js"
+  ]
+}
